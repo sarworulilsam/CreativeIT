@@ -95,7 +95,7 @@ header a:hover {
 /*Showcase*/
 #showcase {
     min-height: 400px;
-    background: url(./Images/jpg/Computer%20Lab.jpg), no-repeat 0 -550px;
+    background: url(./Images/Computer%20Lab.jpg), no-repeat 0 -550px;
     text-align: center;
     color: #ffffff;
 }
